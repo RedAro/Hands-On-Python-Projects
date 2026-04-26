@@ -59,17 +59,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 📁 Projects
 
-| # | Project Name | Description | Difficulty | Status |
-|---|---|---|---|---|
-| 1 | [Project 1](#) | Description here | Beginner | ✅ |
-| 2 | [Project 2](#) | Description here | Beginner | ✅ |
-| 3 | [Project 3](#) | Description here | Intermediate | ✅ |
-
-*More projects coming soon! Check back regularly for updates.*
-
----
 
 ## 🎓 Learning Outcomes
 
