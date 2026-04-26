@@ -87,20 +87,6 @@ By working through these projects, you'll learn:
 
 ---
 
-## 📖 Project Structure
-
-Each project follows this structure:
-
-```
-project-name/
-├── README.md              # Project-specific documentation
-├── main.py               # Main project file
-├── requirements.txt      # Project dependencies
-├── data/                 # Input data files (if any)
-└── output/               # Generated outputs (if any)
-```
-
----
 
 ## 🔧 How to Use This Repository
 
